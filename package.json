@@ -1,0 +1,21 @@
+{
+  "name": "mapty-app",
+  "version": "1.0.0",
+  "description": "This app allow you to click somewhere on map and add workout (cycling or running)",
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravan-Aliyev/Mapty-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravan-Aliyev/Mapty-app/issues"
+  },
+  "homepage": "https://github.com/ravan-Aliyev/Mapty-app#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
